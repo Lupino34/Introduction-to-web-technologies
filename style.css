@@ -1,0 +1,35 @@
+body {
+	
+	color: #1b0505;
+	font: 18px 'Marck Script', cursive;
+	background-color: #f8f8f8;
+	border-top: 5px solid #7e7e7e;
+	margin: 10px;
+	font-family: 'Marck Script', cursive;
+
+}
+.title {
+	text-align: center;
+	background: linear-gradient(to left, #d64c16 0%, white, #f6f88d);
+
+}
+.ingrédients  {
+	
+	list-style: none;
+	padding: 0;
+	margin: 10px 700px 10px 10px;
+	}
+.ingrédients li {
+	
+	padding: 10px 30px;
+	background: linear-gradient(to left, #16c9d6 0%, white, #96f88d);
+	border-bottom: 1px solid grey;
+	color: #506a6b;
+	font-size: 20px;
+	box-shadow: 0 5px 5px 0 rgba(0,0,0, .2);
+	margin-bottom: 5px;
+	}
+ /* img {
+	float:left;
+
+}  */
