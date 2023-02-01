@@ -8,7 +8,7 @@ body {
 	font-family: 'Marck Script', cursive;
 
 }
-.title {
+header {
 	text-align: center;
 	background: linear-gradient(to left, #d64c16 0%, white, #f6f88d);
 
@@ -28,8 +28,31 @@ body {
 	font-size: 20px;
 	box-shadow: 0 5px 5px 0 rgba(0,0,0, .2);
 	margin-bottom: 5px;
-	}
- /* img {
-	float:left;
+}
 
-}  */
+.one {
+	display:flex ;
+	float:left;
+	background: linear-gradient(to left, #16c9d6 0%, white, #24aa18);
+	
+}
+.two {
+	display: flex;
+	float: left;
+	background: linear-gradient(to left, #16c9d6 0%, white, #24aa18);
+}
+.free {
+	display: flex;
+	float: right;
+	background: linear-gradient(to left, #16c9d6 0%, white, #24aa18);
+
+}
+.four {
+	display: flex;
+	float: left;
+	background: linear-gradient(to left, #16c9d6 0%, white, #24aa18)
+}
+footer {
+	text-align: center;
+	background: linear-gradient(to left, #16c9d6 0%, white, #96f88d);
+}
